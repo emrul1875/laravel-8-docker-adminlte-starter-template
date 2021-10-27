@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "emrul1875/laravel-8-docker-adminlte-starter-template",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "A laravel 8 docker adminlte starter template",
     "keywords": [
         "framework",
         "laravel"
